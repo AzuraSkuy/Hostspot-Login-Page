@@ -3,7 +3,7 @@ Mikrotik Hotspot's Login Page featured [Materialize CSS](http://http://materiali
 
 ## Jump to start
 A simple MikroTIK hotspot's login page. Made to an institution, and you could use it for free.
-![Sample](https://github.com/kawaiiislyr/Hostspot-Login-Page/blob/main/hotspot/img/sample.png)
+![Sample]()
 
 ## Installing
 1. Clone this into your repo as always.
