@@ -17,4 +17,4 @@ A simple MikroTIK hotspot's login page. Made to an institution, and you could us
 1. Set your hotspot server's profile into the directory.
 
 ## Disclaimer
-I edit the login page, including logout and/or status page.
+I just edit the login page, not including logout and/or status page but, i only edit the font.
